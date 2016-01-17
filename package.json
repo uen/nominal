@@ -1,0 +1,15 @@
+{
+  "name":"nominal",
+  "author":{
+    "name": "Manolis Vrondakis",
+    "url": "http://manolisvrondakis.com"
+  },
+  "version":"1.0.0",
+  "keywords": [
+    "validation"
+  ],
+  "repository":{
+    "type":"git",
+    "url":"git://github.com/vrondakis/nominal"
+  },
+}
